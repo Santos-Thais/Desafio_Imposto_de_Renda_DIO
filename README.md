@@ -1,5 +1,5 @@
 <p align="center">
-<img loading="lazy" src="Blue and White Simple Congratulations Banner (1).png"/>
+<img loading="lazy" src="Camiseta_de_time_de_futebol_leão_grunge_preto_e_branca__2_-removebg-preview.png"/>
 </p>
 
 Este projeto tem como objetivo criar uma ferramenta no Excel que ajude a organizar e reunir informações essenciais para a declaração de imposto de renda.
